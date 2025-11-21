@@ -1,3 +1,0 @@
-Starting test com.itextpdf.samples.sandbox.security.DecryptPdf
-Hello
-Test executed successfully, comparing results...
